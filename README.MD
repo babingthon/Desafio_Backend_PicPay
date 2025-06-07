@@ -23,10 +23,10 @@
 
 ## Tecnologias utilizadas
 
-* Java 21
+* Java 24
 * Spring Boot
 * Spring Data JPA
-* MySQL
+* Postgres
 * Docker
 * Spring Cloud Open Feign
 * ControllerAdvice & Problem Details
