@@ -12,7 +12,7 @@
 	<artifactId>picpay</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>picpay</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Picpay</description>
 	<url/>
 	<licenses>
 		<license/>
