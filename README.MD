@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/babingthon/Desafio_Backend_PicPay/tree/main/src/main/images/picpay-logo.jpg"> 
+    <img width="30%" src="src/main/images"> 
 </p>
 
 
