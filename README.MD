@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="30%" src="src/main/images"> 
+    <img width="30%" src="src/main/images/picpay-logo.jpg"> 
 </p>
 
 
